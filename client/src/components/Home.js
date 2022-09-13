@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import '../App.css';
 
 function Home() {
+    const appUrl = "/ghibli-songs-player";
     const [songs, setSongs] = useState([]);
     const [selectedSong, setSelectedSong] = useState(null);
 
@@ -11,7 +12,7 @@ function Home() {
     }, []);
 
     const getSongs = async () => {
-        const response = await fetch("songs.json");
+        const response = await fetch(`${appUrl}/songs.json`);
         const data = await response.json();
         setSongs(data);
     }
@@ -19,7 +20,7 @@ function Home() {
     const renderListOfSongs = (list) => {
         return list.map((song, index) =>
             <div className='song' key={index} onClick={() => setSelectedSong(song)}>
-                <img className='artwork' src={song.cover} alt={song.title} />
+                <img className='artwork' src={`${appUrl}/${song.cover}`} alt={song.title} />
             </div>
         )
     }
@@ -27,12 +28,12 @@ function Home() {
     const renderSelectedSongs = (item) => {
         return (
             <>
-                <img className='artworkS' src={selectedSong.cover} alt={selectedSong.title} />
+                <img className='artworkS' src={`${appUrl}/${selectedSong.cover}`} alt={selectedSong.title} />
                 <h2>{selectedSong.title}</h2>
                 <p>{selectedSong.artistName}</p>
                 <p>{selectedSong.genres}</p>
-                <audio src={selectedSong.audio} controls>
-                    <source src={selectedSong.audio} type="audio/mpeg" />
+                <audio src={`${appUrl}/${selectedSong.audio}`} controls>
+                    <source src={`${appUrl}/${selectedSong.audio}`} type="audio/mpeg" />
                 </audio>
             </>
         )
