@@ -1,5 +1,7 @@
 import { React } from 'react'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Home from './components/Home';
+import NotFound from './components/NotFound';
 import './App.css';
 
 function App() {
@@ -7,7 +9,6 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/upload" element={<Upload />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </BrowserRouter>

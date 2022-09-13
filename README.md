@@ -1,24 +1,18 @@
-# ghibli-songs-api
+# ghibli-songs-player
 
-Web App
+Ghibli inspired music player.
 
-![preview](img/web.png)
-
-REST API
-
-![preview](img/api.png)
-
+![preview](img/preview.png)
 
 ## Usage
 
-* Visit [ghibli-songs-api](https://stefanygonzalezleon.github.io/ghibli-songs-api/)
+* Visit [ghibli-songs-player](https://stefanygonzalezleon.github.io/ghibli-songs-player/)
 * Play a song.
 
 ## Features
 
-* React client.
-* Node.js server.
-* MongoDB storage.
+* React App.
+* React Router.
 
 ## Author
 

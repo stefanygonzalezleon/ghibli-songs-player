@@ -1,0 +1,86 @@
+[
+    {
+        "title": "Kiki's Delivery Service - On a Clear Day",
+        "artistName": "Joe Hisaishi",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Symphonic Suite “Kiki’s Delivery Service” _ On a Clear Day - A Town with an Ocean View... (192 kbps).mp3",
+        "cover": "/songs/Kiki's Delivery Service.jpg"
+    },
+    {
+        "title": "My Neighbor Totoro - The Path of the Wind",
+        "artistName": "Joe Hisaishi",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/The Path of Wind (From “My Neighbor Totoro“) theme (192 kbps).mp3",
+        "cover": "/songs/My Neighbor Totoro.jpg"
+    },
+    {
+        "title": "Spirited Away - One Summer's Day",
+        "artistName": "Joe Hisaishi",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Joe Hisaishi - One Summer's Day - Spirited Away Soundtrack 432Hz (192 kbps).mp3",
+        "cover": "/songs/Spirited Away.jpg"
+    },
+    {
+        "title": "Ponyo on the Cliff by the Sea - A Night of Shooting Stars",
+        "artistName": "Joe Hisaishi",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Joe Hisaishi - Ponyo on the Cliff by the Sea (192 kbps).mp3",
+        "cover": "/songs/Ponyo on the Cliff by the Sea.jpg"
+    },
+    {
+        "title": "Princess Mononoke - The Legend of Ashitaka",
+        "artistName": "Joe Hisaishi",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Princess Mononoke - The Legend of Ashitaka (192 kbps).mp3",
+        "cover": "/songs/Princess Mononoke .jpg"
+    },
+    {
+        "title": "Grave of the Fireflies - Home Sweet Home",
+        "artistName": "Amelita Galli-Curci",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Home Sweet Home - Grave of the Fireflies (192 kbps).mp3",
+        "cover": "/songs/Grave of the Fireflies.jpg"
+    },
+    {
+        "title": "Howl's Moving Castle - Merry Go Round of Life",
+        "artistName": "Joe Hisaishi",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Merry Go Round of Life - Howl's Moving Castle (Joe Hisaishi) (192 kbps).mp3",
+        "cover": "/songs/Howl's Moving Castle.jpg"
+    },
+    {
+        "title": "Nausicaä of the Valley of the Wind - Opening",
+        "artistName": "Joe Hisaishi",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Nausicaa OST - Opening (192 kbps).mp3",
+        "cover": "/songs/NausicaÃ¤ of the Valley of the Wind.jpg"
+    },
+    {
+        "title": "The Secret World of Arriety - The Neglected Garden",
+        "artistName": "Cécile Corbel",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/The neglected garden (192 kbps).mp3",
+        "cover": "/songs/The Secret World of Arriety .jpg"
+    },
+    {
+        "title": "When Marnie Was There - Fine on the Outside",
+        "artistName": "Priscilla Ahn",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/When Marnie Was There - Fine on the Outside (192 kbps).mp3",
+        "cover": "/songs/When Marnie Was Therejpg.jpg"
+    },
+    {
+        "title": "Only Yesterday - The Rose",
+        "artistName": "Vitamin String Quartet",
+        "genres": "Cinematic Classical",
+        "audio": "/songs/Only Yesterday - Ai wa Hana, Kimi wa Sono Syushi.mp4 (192 kbps).mp3",
+        "cover": "/songs/Only Yesterday.jpg"
+    },
+    {
+        "title": "Whispers of the Heart - Take Me Home, Country Roads",
+        "artistName": "Denver",
+        "genres": "Country",
+        "audio": "/songs/Whisper of the Heart (귀를 기울이면) OST - Take Me Home, Country Roads (Lyrics 해석) (192 kbps).mp3",
+        "cover": "/songs/Whispers of the Heart .jpg"
+    }
+]
