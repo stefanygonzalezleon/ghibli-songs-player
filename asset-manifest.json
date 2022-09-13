@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ghibli-songs-player/static/css/main.21245c72.css",
+    "main.js": "/ghibli-songs-player/static/js/main.0b0b1ac1.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ghibli-songs-player/static/js/787.28cb0dcd.chunk.js",
+    "static/media/RubikDirt-Regular.ttf": "/ghibli-songs-player/static/media/RubikDirt-Regular.7c2e9501e6fa6713b659.ttf",
+    "index.html": "/ghibli-songs-player/index.html",
+    "main.21245c72.css.map": "/ghibli-songs-player/static/css/main.21245c72.css.map",
+    "main.0b0b1ac1.js.map": "/ghibli-songs-player/static/js/main.0b0b1ac1.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ghibli-songs-player/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21245c72.css",
+    "static/js/main.0b0b1ac1.js"
+  ]
+}
